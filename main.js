@@ -4,7 +4,8 @@
  * @param {Number} b
  */
 function main(a, b) {
-   return a - b;
+   const c = 2
+   return a - b + b;
 }
 
 function sum(a,b){
