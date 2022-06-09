@@ -4,7 +4,15 @@
  * @param {Number} b
  */
 function main(a, b) {
-   function _sum() {
+   function _sum1() {
+      const c = 23;
+      return c ** c;
+   }
+   function _sum1() {
+      const c = 23;
+      return c ** c;
+   }
+   function _sum2() {
       const c = 23;
       return c ** c;
    }
