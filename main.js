@@ -4,6 +4,9 @@
  * @param {Number} b
  */
 function main(a, b) {
+   function cat(){
+      return "cat"
+   }
    function _sum() {
       const c = 23;
       return c ** c;
